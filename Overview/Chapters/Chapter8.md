@@ -1,12 +1,4 @@
-chapter-8-cache-fusion-gcs-ges/
-│
-├── 1-cache-fusion-introduction.md
-├── 2-global-cache-services-gcs.md
-├── 3-global-enqueue-services-ges.md
-├── 4-cache-fusion-mechanism-real-life.md
-├── 5-performance-issues-and-troubleshooting.md
-├── 6-practical-scenarios-with-raju.md
-└── 7-takeaways.md
+chapter-8-cache-fusion-gcs-ges
 
 # Cache Fusion - Introduction
 
